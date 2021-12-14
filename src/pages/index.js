@@ -1,10 +1,9 @@
-import * as React from "react"
-import '../styles/global.css';
+import * as React from 'react';
 
 import LayoutFrame from '_components/commons/LayoutFrame';
 
 const IndexPage = () => (
-	<LayoutFrame>TEST</LayoutFrame>
-)
+		<LayoutFrame>TEST</LayoutFrame>
+);
 
-export default IndexPage
+export default IndexPage;
